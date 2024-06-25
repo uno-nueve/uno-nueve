@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Luciano
 
-<!--
-**uno-nueve/uno-nueve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on web, mostly front end.
 
-Here are some ideas to get you started:
+## I work with:
+JS TS React Node PHP Tailwind Prisma Docker Linux
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently learning:
+Laravel Adonis.js
+---
+
+### My projects:
+- [Sistema de Gestión de Recursos Humanos]()
